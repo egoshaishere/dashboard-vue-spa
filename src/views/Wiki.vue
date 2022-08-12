@@ -7,6 +7,11 @@
         src="https://user-images.githubusercontent.com/15625235/63575386-3e20b380-c58a-11e9-8f28-e196fd7e97a7.png"
         alt="puk"
       />
+
+            <img
+        src="https://ru.vuejs.org/images/lifecycle.png"
+        alt="puk"
+      />
     </div>
 
     <ul>
@@ -58,6 +63,24 @@
           </tr>
         </tbody>
       </table>
+    </div>
+
+    <h2>Пользовательские события</h2>
+
+    <div>
+      полная запись
+      text-document
+        v-bind:title="doc.title"
+        v-on:update:title="doc.title = $event"
+      text-document
+      >
+    </div>
+
+    <div>
+      сокращенная запись
+      text-document 
+      v-bind:title.sync="doc.title"
+      /text-document>
     </div>
   </div>
 </template>

@@ -82,6 +82,40 @@
       v-bind:title.sync="doc.title"
       /text-document>
     </div>
+
+<p>https://www.devaradise.com/vue-example-projects</p>
+    <p>
+      Table of Contents	
+How To Learn Vue.js Example Projects / Case Studies?
+1. Choose Only One Project at A Time
+2. Replicates, But Don’t Copy-Paste the Codes
+3. Be Curious, Find out Why the Codes Work
+4. Experiment, and Add Your Own Flavour
+5. Have Patience and Stay Focused
+What are the Vue.js Example Projects to Learn From?
+1. Todo App with Composition API
+2. Vue Todo App
+3. Vue Calculator
+4. Vue User Registration and Login
+5. Vue By Sample
+6. Vue Hackernews
+7. Vue Stock Trader
+8. Vue Trello
+9. Vue Chat
+10. Vue Gmail Clone
+11. Vue Google Keep Clone
+12. Vue Slack Clone
+13. Vue Quasar Admin
+14. Vue Admin Template
+15. Vue Netflix Clone
+16. Vue Reddit Clone
+17. Vue RealWorld Example
+18. Vue Online Music Player
+19. Vue Hackernews 2.0
+20. Vue Node.js Youtube Clone
+21. Jira Clone
+Do you know other repos?
+    </p>
   </div>
 </template>
 
